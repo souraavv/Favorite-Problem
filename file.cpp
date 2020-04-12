@@ -1,7 +1,7 @@
 /* 
 
 
-https://codeforces.com/contest/798/problem/C
+[very nice] : https://codeforces.com/contest/798/problem/C
 
 
 
